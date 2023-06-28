@@ -52,4 +52,5 @@ if __name__=='__main__':
        os.system("./data/cekmodule.sh")
        os.system('pkg install play-audio' )
        os.system('touch .cookie.txt .token.txt')
+       keamanan()
        cek()
