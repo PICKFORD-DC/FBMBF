@@ -12,3 +12,7 @@ git clone https://github.com/PICKFORD-DC/FBMBF
 cd FBMBF
 python run
 ```
+- thanks for helping me :')
+> - Brutal ID<br>
+> - Speed-Run-Bash<br>
+> - Mr_Dark<br>
