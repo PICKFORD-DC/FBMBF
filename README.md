@@ -1,7 +1,7 @@
 <center>
   <img src="https://c.top4top.io/p_2735faz1o0.jpg">
   </center>
-<details open><summary><code>Command Copy</code></summary>
+<details close><summary><code>Command</code></summary>
 
 ```bash
 pkg update && pkg upgrade
