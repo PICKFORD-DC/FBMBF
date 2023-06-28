@@ -1,6 +1,7 @@
 <center>
   <img src="https://c.top4top.io/p_2735faz1o0.jpg">
   </center>
+ - Note : Script Ini Masih Dalam Pengembangan
 <details close><summary><code>Command</code></summary>
 
 ```bash
