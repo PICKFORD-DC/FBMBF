@@ -143,7 +143,7 @@ def tumbal():
     gender = json.loads(data.text)['gender']  # GET GENDER / JENIS KELAMIN
     nama = json.loads(data.text)['name'] # Get Name
     user = random.randint(1, 100) # FAKE USER PKE RANDOM SOAL NYA GWE GTW CARA BIKIN LIST ORNG YG LGI MAKE SC GWE
-    update = "27 Juni 2023"
+    update = "1 Juli 2023"
     ip = requests.get("http://ip-api.com/json/").json()['query'] # GET IP
     index = [] # Index Columns
     A = f"""
