@@ -1,19 +1,3 @@
 <center>
-  <img src="https://c.top4top.io/p_2735faz1o0.jpg">
+  <img src="https://e.top4top.io/p_2740ycp3n0.jpg">
   </center>
- - Note : Script Ini Masih Dalam Pengembangan
-<details close><summary><code>Command</code></summary>
-
-```bash
-pkg update && pkg upgrade
-apt install whiptail
-apt install python
-apt install git
-git clone https://github.com/PICKFORD-DC/FBMBF
-cd FBMBF
-python run
-```
-- thanks for helping me :')
-> - Brutal ID<br>
-> - Speed-Run-Bash<br>
-> - Mr_Dark<br>
